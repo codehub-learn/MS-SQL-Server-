@@ -9,7 +9,7 @@ How to install MS-SQL
 1.    Install  SQL Server 2019
 https://www.microsoft.com/en-us/sql-server/sql-server-downloads
 *    Download the Developer edition (SQL2019-SSEI-Dev.exe)
-*    Run the file SQL2019-SSEI-Expr.exe
+*    Run the file SQL2019-SSEI-Dev.exe
 *    Select the Basic edition, accept the license agreement
 *    After checking your computer, make full installation, select all options, and proceed using default settings
 *    If asked, add current user in all cases
