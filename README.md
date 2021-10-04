@@ -10,10 +10,10 @@ How to install MS-SQL
 https://www.microsoft.com/en-us/sql-server/sql-server-downloads
 *    Scroll and find to download the Developer edition (SQL2019-SSEI-Dev.exe)
 *    Run the file SQL2019-SSEI-Dev.exe
-*    Select the Basic edition, accept the license agreement
+*    Select the Basic installation type, accept the license agreement
 *    After checking your computer, make full installation, select all options, and proceed using default settings
 *    If asked, add current user in all cases
-*    Choose mixed mode authentication using the password Password: passw0rd
+*    Choose mixed mode authentication using the password: passw0rd
 
  
 
